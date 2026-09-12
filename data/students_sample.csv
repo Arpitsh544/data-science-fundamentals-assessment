@@ -1,0 +1,16 @@
+student_id,name,age,grade,city,enrollment_date,score,remarks
+1,Aarav Sharma,20,A,Delhi,2024-07-01,88.5,Excellent performance in labs
+2,Priya Singh,21,B,Mumbai,2024-07-02,76.0,Good grasp of concepts
+3,Rohan Mehta,19,A,Delhi,2024-07-01,91.2,Consistently strong
+4,Sneha Patel,22,C,Pune,2024-07-03,58.4,Needs improvement in stats
+5,Vikram Rao,20,B,Bangalore,2024-07-02,73.6,Solid understanding
+6,Anjali Gupta,21,A,Delhi,2024-07-04,95.0,Outstanding coder
+7,Karan Verma,23,D,Pune,2024-07-05,45.2,Struggles with syntax
+8,Neha Joshi,20,B,Mumbai,2024-07-02,79.8,Steady progress
+9,Arjun Nair,22,C,Bangalore,2024-07-03,61.0,Improving gradually
+10,Ishita Kapoor,19,A,Delhi,2024-07-01,89.9,Very analytical
+11,Manish Kumar,21,,Pune,2024-07-06,,Missing grade and score
+12,Divya Reddy,20,B,Bangalore,2024-07-02,72.3,Average performer
+13,Aarav Sharma,20,A,Delhi,2024-07-01,88.5,Excellent performance in labs
+14,Tanvi Desai,24,C,Mumbai,2024-07-07,64.5,Late submission
+15,Yash Malhotra,20,B,Delhi,2024-07-02,77.7,Good team player
